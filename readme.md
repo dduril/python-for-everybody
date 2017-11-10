@@ -1,6 +1,8 @@
 # Python for Everybody
 
-### Coursework
+Project work for a specialization offered by **[Coursera](https://www.coursera.org)** and created by **[University of Michigan](https://www.coursera.org/specializations/python)**.
+
+#### Coursework Includes:
 
 - **Getting Started with Python**
 - **Python Data Structures**
